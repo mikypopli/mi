@@ -1,0 +1,14 @@
+import java.until.scanner;
+public class userinput
+{
+public static void main(string{} args) 
+{
+scannerbscanner = new scanner(system.in);
+system.out.printn("please input number 1");
+int num1+ scanner.nextInt();
+system.out.println(please inputnumber2");
+int num2 = scanner,nextln();
+int sum = num + num2;
+
+system.out.println("sun of two numbers "+num2 + " and num1 + " is::"+sum);
+}
